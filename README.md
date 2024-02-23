@@ -2,6 +2,7 @@
 # Relational database class project
 
 **MySQL To-do list database**
+
 ![](https://github.com/kutscheraa/TO-DO-LIST_DATABASE/blob/main/databaseerd.png)
 
 ## Assignment
