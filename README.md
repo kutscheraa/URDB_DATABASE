@@ -1,7 +1,7 @@
 
 # Relational database class project
 
-To-do list database was my choice, used MySQL and DigitalOcean managed database system.
+**MySQL To-do list database**
 ![](https://github.com/kutscheraa/TO-DO-LIST_DATABASE/blob/main/databaseerd.png)
 
 ## Assignment
