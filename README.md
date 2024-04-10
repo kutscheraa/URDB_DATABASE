@@ -5,6 +5,17 @@
 
 ![](https://github.com/kutscheraa/TO-DO-LIST_DATABASE/blob/main/databaseerd.png)
 
+<details>
+  <summary>Spoiler warning</summary>
+  
+Note that it's important to have a space after the summary tag. You should be able to write any markdown you want inside the `<details>` tag... just make sure you close `<details>` afterward.
+  
+  ```python
+  console.log("fig.add_trace(go.Scatter(x=data['Date'], y=data['24h High (USD)'], line=dict()))");
+  ```
+  
+</details>
+
 ## Assignment
 Design your own database:
 - Choose your own topic and database content (it should not be an example covered in class).
