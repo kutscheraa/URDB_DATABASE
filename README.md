@@ -8,8 +8,6 @@
 <details>
   <summary>Spoiler warning</summary>
   
-
-  
   ```python
   fig.add_trace(go.Scatter(x=data['Date'], y=data['24h High (USD)'], line=dict()))
   ```
