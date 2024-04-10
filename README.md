@@ -4,13 +4,6 @@
 **MySQL To-do list database**
 
 ![](https://github.com/kutscheraa/TO-DO-LIST_DATABASE/blob/main/databaseerd.png)
-
-<details>
-  <summary>Spoiler warning</summary>
-  
-  ```python
-  fig.add_trace(go.Scatter(x=data['Date'], y=data['24h High (USD)'], line=dict()))
-  ```
   
 </details>
 
